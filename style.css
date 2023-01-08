@@ -1,0 +1,8 @@
+input {
+    width: 300px !important;
+}
+
+#error {
+    color: red;
+    text-align: center;
+}
